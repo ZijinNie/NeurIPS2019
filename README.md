@@ -1,5 +1,5 @@
 # NeurIPS2019
-In NeurIPS 2019, reproduced papaer "Making AI Forget You: Data Deletion in Machine Learning" by Antonio Ginart et.al.
+In NeurIPS 2019, reproduced paper "Making AI Forget You: Data Deletion in Machine Learning" by Antonio Ginart et.al.
 
 Teammate: Xiaohui Wang, and Zijun Yu
 
